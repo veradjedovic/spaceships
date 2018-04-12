@@ -35,7 +35,7 @@ $ship20 = new Interceptor(23, false);
 // Attack Formation Array
 $attack = [$ship1, $ship2, $ship3, $ship4, $ship5, $ship6, $ship7, $ship8, $ship9, $ship10, $ship11, $ship12, $ship13, $ship14, $ship15, $ship16, $ship17, $ship18, $ship19, $ship20];
 
-// Escort Formation Array - here is the same, but can be diferent of attack formation array
+// Escort Formation Array - here is the same, but it can be diferent from attack formation array
 $escort = [$ship1, $ship2, $ship3, $ship4, $ship5, $ship6, $ship7, $ship8, $ship9, $ship10, $ship11, $ship12, $ship13, $ship14, $ship15, $ship16, $ship17, $ship18, $ship19, $ship20];
 
 // Instance of Formation
